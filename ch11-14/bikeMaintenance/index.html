@@ -1,0 +1,213 @@
+<html lang="en-US"> 
+<head>
+    <meta charset="utf-8">
+    
+    <meta meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    
+    <title>
+        Drivetrain Maintenance
+    </title>
+    
+    <link type = "text/css" rel ="stylesheet" href="../stylesheets/styles.css">
+    
+    <link rel="icon" type="image/png" href="../images/gearfavicon.png">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
+    </script>
+
+    <script>
+            
+            $(document).ready(function() {
+            alert("Thanks for visiting our Drivetrain Maintenance Page!!!!1!");
+
+            $("#lubricantList").mouseover(function(){
+                alert("good job, you found the secret mouseover text ;)")
+            })
+
+            $("#moreinfo").mouseover(function(){
+                $(".additional a").fadeIn();
+            })
+
+            $(".menu li").mouseout(function(){
+                $(".additional a").fadeOut();
+            })
+        })
+    </script>
+
+</head>
+
+<body>
+    <div>
+        <div class="menu">
+                <img src="../images/logosimplev2TP.png" id="logo"
+                alt="APB logo">
+                
+                <ul>
+                    <li>
+                        <a href="../Home/index.htm">
+                            Home
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="../aboutMe/index.htm" target="_self">
+                            About Me 
+                        </a>
+                    </li>
+
+                    <li style="border:1px solid; border-color: #9dc0f2">
+                        <a href="../bikeMaintenance/index.htm">
+                            Drivetrain Maintenance 
+                        </a> 
+                    </li>
+
+                    <li id="moreinfo">
+                        <h3>
+                            More Information
+                        </h3>
+                        <li class="additional">
+                            <a href="https://sheldonbrown.com" target= "_self"> 
+                                Sheldon Brown
+                            </a>
+                        </li>
+    
+                        <li class="additional">
+                            <a href="../contactUs/index.html" target="_self">
+                                Contact Us
+                            </a>
+                        </li>
+
+                </ul>
+        </div>
+
+        <div class="main">
+            <p>
+                    When I worked at a bike shop, by far the most common, avoidable, and potentially costly mistake I saw people make was to neglect drivetrain maintenance.
+                In any vehicle, the drivetrain is the group of components that transfer power to the wheels, in this case through the front gears and the chain
+                to the rear wheel. A bicycle chain is made up of hundreds of plates, attached with pins that have rollers around them. Over time,
+                the parts of the chain that move and contact other surfaces begin to wear away, increasing the distance beween links and adding side-to-side flex.
+            </p>
+            <p>
+                    The changing shape of the chain begins to wear down the gears, and can eventually lead to the chain simply slipping forward over the teeth when they're 
+                sufficiently worn down. Additionally, the side-to-side flex can result in a loss of shifting performance, or even dropping the chain off the gears. 
+                Replacing a worn-out chain is fairly inexpensive, though replacing worn out gears can get quite a bit more costly. Though chain wear 
+                is unavoidable, their lives can be extended through cleaning and lubrication as needed (no WD-40) and the gears may never wear out if
+                the chain is replaced when it dies (typically once a year or so for a regular rider).
+            </p>
+            <hr>
+            <table id="lubricantList">
+                <tr>
+                    <td colspan="2" style="font-weight:500">Aidan's Preferred List of Chain Lubricants</td>
+                </tr>
+                <tr id="tri-flow" name="tri-flow">
+                    <td>
+                        <a href="https://www.triflowlubricants.com/product/tri-flow-superior-lubricant-drip-bottle/" target="_blank">
+                            Tri-Flow
+                        </a>
+                    </td>
+                    <td>
+                        An extremely useful multipurpose teflon lubricant that also works quite well for bike chains.
+                    </td>
+                <tr id="rockNRoll" name="rockNRoll">
+                    <td>
+                        <a href= "https://www.rocklube.com/products.html" target="_blank">
+                            Rock 'n' Roll Gold
+                        </a>
+                    </td>
+                    <td>
+                        The connoisseur's choice, this dry wax emulsion runs very clean and helps push grit out from inside the chain as you ride.
+                    </td>
+                <tr>
+                    <td id="c3ceramic" name="c3ceramic">
+                        <a href="https://us.muc-off.com/products/c3-dry-ceramic-lube" target="_blank">
+                            Muc-Off C3
+                        </a>
+                    </td> 
+                    <td>
+                        This premium ceramic lubricant is very long-lasting when applied properly, and even comes with a fancy little blacklight to see what spots you've missed.
+                    </td>
+                </tr>
+            </table>
+
+            <hr />
+
+        <h3>
+            Types of Chain Lubricant - Use Case Scenarios
+        </h3>
+
+        <table class="scenarios">
+            <tr>
+                <th style="border:none"></th>
+
+                <th id="rain">Rain</th>
+
+                <th id="dust">Dry &amp; Dusty</th>
+
+                <th id="longevity">Longevity</th>
+            </tr> 
+                <tr>
+
+                <td id="useCases">
+                   Tri-Flow
+                </td>  
+
+                <td>
+                    Good
+                </td> 
+
+                <td>
+                    So-So
+                </td> 
+
+                <td>
+                    Very Good
+                </td>
+            </tr>
+
+            <tr>
+                <td id="useCases">
+                    Rock 'n' Roll Gold
+                </td> 
+
+                <td>
+                    So-So
+                </td> 
+
+                <td>
+                    Good       
+                </td> 
+                
+                <td>
+                    Good
+                </td>
+            </tr>
+            
+            <tr>
+                <td id="useCases">
+                    Muc-Off C3
+                </td> 
+               
+                <td>
+                    Pretty Good
+                </td> 
+              
+                <td>
+                    Very good
+                </td> 
+               
+                <td>
+                    Very Good
+                </td>
+            </tr>
+        </table>
+    </div>
+    
+    <div id="copyright">
+        <h3>
+            &copy;Aidan Beckman 2021
+        </h3>
+    </div>
+  </div>
+</body>
+</html>
+ 
