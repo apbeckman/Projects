@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{877596C6-9D7D-4ECC-9391-AA476EB70C92}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment8.1/Bike.cs">
+    <Files>
+      <File FileName="ProgrammingAssignment8.1/StockItem.cs" Line="23" Column="1" />
+      <File FileName="ProgrammingAssignment8.1/UserInput.cs" Line="20" Column="1" />
+      <File FileName="ProgrammingAssignment8.1/Part.cs" Line="44" Column="1" />
+      <File FileName="ProgrammingAssignment8.1/Bike.cs" Line="31" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgrammingAssignment8.1" expanded="True">
+            <Node name="ProgrammingAssignment8.1" expanded="True">
+              <Node name="Bike.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProgrammingAssignment8.1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
