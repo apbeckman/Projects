@@ -1,0 +1,16 @@
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\bin\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.exe
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\bin\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.deps.json
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\bin\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.runtimeconfig.json
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\bin\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.runtimeconfig.dev.json
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\bin\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.dll
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\bin\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.pdb
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.csproj.AssemblyReference.cache
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.AssemblyInfoInputs.cache
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.AssemblyInfo.cs
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.csproj.CoreCompileInputs.cache
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.dll
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\refint\GradeCalculator - ProgrammingAssignment5.dll
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.pdb
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\GradeCalculator - ProgrammingAssignment5.genruntimeconfig.cache
+C:\Users\aidan\OneDrive\Desktop\Projects\GradeCalculator - ProgrammingAssignment5\obj\Debug\net5.0\ref\GradeCalculator - ProgrammingAssignment5.dll
